@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maquecime/Documents/School/IMT/netshowC/main.c
+stdio.h
+-
+stdlib.h
+-
+ifaddrs.h
+-
+string.h
+-
+stdint.h
+-
+inttypes.h
+-
+arpa/inet.h
+-
+
